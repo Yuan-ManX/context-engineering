@@ -35,7 +35,6 @@ Andrey Karpathy’s post about this is a great summary: People associate prompts
 - **Structured Output**: Definitions on the format of the model's response, e.g. a JSON object.
 
 
-
 ##  <span id="agent">Context Engineering for Agents</span>
 
 
@@ -101,6 +100,8 @@ Isolating context involves splitting it up to help an agent perform a task.
 - [Context Engineering Template](https://github.com/coleam00/context-engineering-intro)
 - [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code)
 - [Context Engineering Best Practices](https://www.philschmid.de/context-engineering)
+- [The rise of "context engineering"](https://blog.langchain.com/the-rise-of-context-engineering/)
+- [Context Engineering](https://blog.langchain.com/context-engineering-for-agents/)
 
 
 
