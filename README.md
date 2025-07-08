@@ -2,6 +2,15 @@
 
 Context Engineering - The art of providing all the context for the task to be plausibly solvable by the LLM. To understand context engineering, we must first expand our definition of "context." It isn't just the single prompt you send to an LLM. Think of it as everything the model sees before it generates a response. 
 
+
+## Table of Contents
+
+* [What is Context Engineering?](#what)
+
+
+
+###  <span id="what">What is Context Engineering?</span>
+
 Andrey Karpathy’s post about this is a great summary: People associate prompts with short task descriptions you'd give an LLM in your day-to-day use. When in every industrial-strength LLM app, context engineering is the delicate art and science of filling the context window with just the right information for the next step.
 
 <p align="center">
