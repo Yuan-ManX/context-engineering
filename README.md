@@ -95,6 +95,7 @@ Isolating context involves splitting it up to help an agent perform a task.
 * [DSPy](https://github.com/stanfordnlp/dspy) - DSPy - Define context-aware reasoning modules instead of writing raw prompts. Includes automatic few-shot injection and programmatic prompt composition. Ideal for context construction, chaining, and reuse.
 * [Guidance](https://github.com/guidance-ai/guidance) - Guidance – Templating + control for prompt generation. Define prompts with embedded variables, logic (if, for, match), and output guidance inside a single file. Great for building reusable, dynamic context with structured control.
 * [LangGraph](https://github.com/langchain-ai/langgraph) - LangGraph is a low-level orchestration framework for building, managing, and deploying long-running, stateful agents.
+* [LMQL](https://github.com/eth-sri/lmql) - LMQL – Language Model Query Language. Use a Python-like syntax to build structured prompts with variables, conditions, and constraints. Great for dynamic context construction and few-shot logic.
 
 
 ##  <span id="resources">Resources</span>
