@@ -92,9 +92,9 @@ Isolating context involves splitting it up to help an agent perform a task.
 
 ##  <span id="devtool">Context Engineering DevTools</span>
 
-* [LangGraph](https://github.com/langchain-ai/langgraph) - LangGraph is a low-level orchestration framework for building, managing, and deploying long-running, stateful agents.
 * [DSPy](https://github.com/stanfordnlp/dspy) - DSPy - Define context-aware reasoning modules instead of writing raw prompts. Includes automatic few-shot injection and programmatic prompt composition. Ideal for context construction, chaining, and reuse.
-* 
+* [Guidance](https://github.com/guidance-ai/guidance) - Guidance – Templating + control for prompt generation. Define prompts with embedded variables, logic (if, for, match), and output guidance inside a single file. Great for building reusable, dynamic context with structured control.
+* [LangGraph](https://github.com/langchain-ai/langgraph) - LangGraph is a low-level orchestration framework for building, managing, and deploying long-running, stateful agents.
 
 
 ##  <span id="resources">Resources</span>
