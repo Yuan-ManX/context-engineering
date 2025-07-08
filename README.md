@@ -6,10 +6,11 @@ Context Engineering - The art of providing all the context for the task to be pl
 ## Table of Contents
 
 * [What is Context Engineering?](#what)
+* [Context Engineering for Agents](#agent)
 
 
 
-###  <span id="what">What is Context Engineering?</span>
+##  <span id="what">What is Context Engineering?</span>
 
 Andrey Karpathy’s post about this is a great summary: People associate prompts with short task descriptions you'd give an LLM in your day-to-day use. When in every industrial-strength LLM app, context engineering is the delicate art and science of filling the context window with just the right information for the next step.
 
@@ -33,7 +34,9 @@ Andrey Karpathy’s post about this is a great summary: People associate prompts
 **Structured Output**: Definitions on the format of the model's response, e.g. a JSON object.
 
 
-## Context Engineering for Agents
+
+##  <span id="agent">Context Engineering for Agents</span>
+
 
 We group common strategies for agent context engineering into four buckets — write, select, compress, and isolate.
 
