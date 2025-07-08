@@ -8,7 +8,7 @@ Context Engineering - The art of providing all the context for the task to be pl
 * [What is Context Engineering?](#what)
 * [Context Engineering for Agents](#agent)
 * [Context Engineering DevTools](#devtool)
-
+* [Resources](#resources)
 
 
 ##  <span id="what">What is Context Engineering?</span>
@@ -94,4 +94,13 @@ Isolating context involves splitting it up to help an agent perform a task.
 ##  <span id="devtool">Context Engineering DevTools</span>
 
 * [LangGraph](https://github.com/langchain-ai/langgraph) - LangGraph is a low-level orchestration framework for building, managing, and deploying long-running, stateful agents.
+
+
+##  <span id="resources">Resources</span>
+
+- [Context Engineering Template](https://github.com/coleam00/context-engineering-intro)
+- [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code)
+- [Context Engineering Best Practices](https://www.philschmid.de/context-engineering)
+
+
 
