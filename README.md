@@ -106,6 +106,7 @@ Isolating context involves splitting it up to help an agent perform a task.
 - [The rise of "context engineering"](https://blog.langchain.com/the-rise-of-context-engineering/)
 - [Context Engineering](https://blog.langchain.com/context-engineering-for-agents/)
 - [Context Engineering - What it is, and techniques to consider](https://www.llamaindex.ai/blog/context-engineering-what-it-is-and-techniques-to-consider)
+- [Context Engineering Guide](https://www.promptingguide.ai/guides/context-engineering-guide)
 
 
 
