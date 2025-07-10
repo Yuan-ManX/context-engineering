@@ -96,6 +96,7 @@ Isolating context involves splitting it up to help an agent perform a task.
 * [Guidance](https://github.com/guidance-ai/guidance) - Guidance – Templating + control for prompt generation. Define prompts with embedded variables, logic (if, for, match), and output guidance inside a single file. Great for building reusable, dynamic context with structured control.
 * [LangGraph](https://github.com/langchain-ai/langgraph) - LangGraph is a low-level orchestration framework for building, managing, and deploying long-running, stateful agents.
 * [LMQL](https://github.com/eth-sri/lmql) - LMQL – Language Model Query Language. Use a Python-like syntax to build structured prompts with variables, conditions, and constraints. Great for dynamic context construction and few-shot logic.
+* [OpenPrompt](https://github.com/thunlp/OpenPrompt) - OpenPrompt – Modular prompt-learning framework. Standardizes templates, verbalizers, and prompt pipelines for classification, QA and more. Supports few-shot sampling and dynamic design. Ideal for structured prompt creation and prompt-based learning.
 
 
 ##  <span id="resources">Resources</span>
